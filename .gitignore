@@ -1,0 +1,6 @@
+# 只允許這幾個檔進倉庫，防止任何腳本／原稿被誤推
+*
+!index.html
+!README.md
+!.nojekyll
+!.gitignore
