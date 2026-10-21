@@ -4,3 +4,8 @@
 !README.md
 !.nojekyll
 !.gitignore
+# 2026-10-21 表單單張 PDF（export_form_pdfs.py 產生）
+!forms/
+forms/*
+!forms/*.pdf
+!forms/manifest.json
